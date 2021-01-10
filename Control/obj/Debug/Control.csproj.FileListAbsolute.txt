@@ -1,0 +1,12 @@
+C:\Users\ACER\Documents\GitHub\QLTTTH\Control\bin\Debug\Control.dll
+C:\Users\ACER\Documents\GitHub\QLTTTH\Control\bin\Debug\Control.pdb
+C:\Users\ACER\Documents\GitHub\QLTTTH\Control\obj\Debug\Control.dll
+C:\Users\ACER\Documents\GitHub\QLTTTH\Control\obj\Debug\Control.pdb
+C:\Users\Admin\Downloads\Compressed\QLTTTH\Control\bin\Debug\Control.dll
+C:\Users\Admin\Downloads\Compressed\QLTTTH\Control\bin\Debug\Control.pdb
+C:\Users\Admin\Downloads\Compressed\QLTTTH\Control\obj\Debug\Control.dll
+C:\Users\Admin\Downloads\Compressed\QLTTTH\Control\obj\Debug\Control.pdb
+D:\QLTTTH\Control\bin\Debug\Control.dll
+D:\QLTTTH\Control\bin\Debug\Control.pdb
+D:\QLTTTH\Control\obj\Debug\Control.dll
+D:\QLTTTH\Control\obj\Debug\Control.pdb

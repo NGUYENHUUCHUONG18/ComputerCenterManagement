@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTTTH", "QLTTTH\QLTTTH.csproj", "{6FDB6477-5B07-4D17-8DB0-EF9648E79487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1B6EF578-54BB-49AC-BB22-337437C060ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "Control\Control.csproj", "{12232CC9-62A7-44FA-9488-C9DE6088AA4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C0CDA16-A768-48E4-8077-E30E7C869D1B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FDB6477-5B07-4D17-8DB0-EF9648E79487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDB6477-5B07-4D17-8DB0-EF9648E79487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDB6477-5B07-4D17-8DB0-EF9648E79487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDB6477-5B07-4D17-8DB0-EF9648E79487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6EF578-54BB-49AC-BB22-337437C060ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6EF578-54BB-49AC-BB22-337437C060ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6EF578-54BB-49AC-BB22-337437C060ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6EF578-54BB-49AC-BB22-337437C060ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12232CC9-62A7-44FA-9488-C9DE6088AA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12232CC9-62A7-44FA-9488-C9DE6088AA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12232CC9-62A7-44FA-9488-C9DE6088AA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12232CC9-62A7-44FA-9488-C9DE6088AA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF755CF3-2CAB-4F15-9FB1-7EDEF9D62B85}
+	EndGlobalSection
+EndGlobal
